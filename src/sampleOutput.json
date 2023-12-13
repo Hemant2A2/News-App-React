@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US House to debate formalising Biden impeachment probe - live updates",
+    "description": "Republicans accuse the president of influence-peddling. The White House accuses them of a \"baseless stunt\".",
+    "url": "http://www.bbc.co.uk/news/live/world-us-canada-67698795",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-12-13T17:07:25.2936372Z",
+    "content": "Video content\r\nVideo caption: Hunter Biden: I've been the target of unrelenting 'Trump attack machine'Hunter Biden: I've been the target of unrelenting 'Trump attack machine'\r\nIts been a busy morning… [+1168 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "COP28: Landmark summit takes direct aim at fossil fuels",
+    "description": "The deal agrees to 'transition away' from fossil fuels for the first time but falls short of phasing them out.",
+    "url": "http://www.bbc.co.uk/news/science-environment-67679734",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1577E/production/_132043978_mediaitem132041576.jpg",
+    "publishedAt": "2023-12-13T16:52:21.4506449Z",
+    "content": "Nations at the UN climate summit have for the first time taken explicit aim at the use of fossil fuels.\r\nThe talks in Dubai came close to collapse but in a dramatic turn-around, nations agreed to \"tr… [+5174 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hunter Biden calls father's impeachment probe 'shameless'",
+    "description": "The president's son said he would only appear for a public hearing with Republicans on Capitol Hill.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67694904",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC60/production/_132042284_gettyimages-1852386601.jpg",
+    "publishedAt": "2023-12-13T15:52:22.6212021Z",
+    "content": "Media caption, Watch Hunter Biden: I've been the target of unrelenting 'Trump attack machine'\r\nHunter Biden has called an impeachment probe into his father \"shameless,\" as he refused to testify at a … [+4118 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US Supreme Court to consider abortion pill case",
+    "description": "The Biden administration asked the court to take up the case after a lower court restricted access",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67707317",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4ADB/production/_132036191_fe7d4d0b74945404aa2e0e21311b8cd70809ee730_0_3427_19282000x1125.jpg",
+    "publishedAt": "2023-12-13T15:37:21.0438745Z",
+    "content": "The US Supreme Court announced it will consider a case that could limit access to a key abortion drug.\r\nIt is the most significant reproductive rights case in the US since the Supreme Court overturne… [+1054 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Andre Braugher: How his deadpan delivery made Captain Holt Brooklyn Nine-Nine's beating heart",
+    "description": "Andre Braugher baked comedy, intellect and heart into the delivery of his lines on the US sitcom.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-67701601",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DEB6/production/_132041075_crgettyimages-460760060.jpg",
+    "publishedAt": "2023-12-13T13:22:22.6843101Z",
+    "content": "Actor Andre Braugher, who has died at the age of 61, was responsible for some of the funniest moments across Brooklyn Nine-Nine's eight seasons.\r\nThe US sitcom thrived thanks in large part to the pol… [+9494 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Is COP28 in Dubai a historic climate deal for the future?",
+    "description": "Agreeing to transition away from fossil fuels is a huge step, but will it make an impact?",
+    "url": "http://www.bbc.co.uk/news/science-environment-67701544",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92CF/production/_132038573_mediaitem132038572.jpg",
+    "publishedAt": "2023-12-13T12:52:23.4021148Z",
+    "content": "Once the gavel came down in Dubai, the warm words flowed - but will it really have an impact on climate change?\r\nThe agreement reached in this glitzy metropolis for the first time nails the role of f… [+3358 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Elon Musk's Tesla recalls two million cars in US over Autopilot defect",
+    "description": "It follows investigation into crashes which occurred when firm's Autopilot system was in use.",
+    "url": "http://www.bbc.co.uk/news/technology-67693935",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7D17/production/_132032023_mediaitem132032022.jpg",
+    "publishedAt": "2023-12-13T12:52:21.840003Z",
+    "content": "Tesla is recalling more than two million cars after the US regulator found its driver assistance system, Autopilot, was partly defective.\r\nIt follows a two-year investigation into crashes at the firm… [+1103 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Dozens wounded in missile strikes on Kyiv",
+    "description": "A total of 53 people have been hurt in the attacks, including six children, the mayor of Kyiv says.",
+    "url": "http://www.bbc.co.uk/news/world-europe-67701246",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6133/production/_132038842_mediaitem132038841.jpg",
+    "publishedAt": "2023-12-13T10:37:20.0435695Z",
+    "content": "Dozens of people have been injured in a wave of missile strikes on the Ukrainian capital Kyiv overnight, authorities say.\r\nFifty-three people were hurt in the attacks, including six children, Kyiv ma… [+5313 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Argentina peso: Milei begins 'shock therapy' by devaluing currency",
+    "description": "The South American nation's new government is trying to tackle its worst crisis in decades.",
+    "url": "http://www.bbc.co.uk/news/business-67688727",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0B39/production/_132037820_gettyimages-1701035946.jpg",
+    "publishedAt": "2023-12-13T05:52:18.434186Z",
+    "content": "Argentina's new government says it will weaken the value of its currency by more than 50% against the US dollar.\r\nIt is part of the \"economic shock therapy\" that President Javier Milei says the count… [+2483 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel-Gaza latest news: Israel 'encircles' Hamas strongholds, as fierce fighting continues",
+    "description": "Israel's defence minister Yoav Gallant says Hamas is on the verge of being dismantled in northern Gaza.",
+    "url": "http://www.bbc.co.uk/news/live/world-middle-east-67687628",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-12-12T04:22:16.1696002Z",
+    "content": "The US Central Command says a commercial tanker was hit by a cruise missile fired from Yemen, in territory controlled by Iranian-backed Houthi rebels. \r\nIt says the strike, which happened on Monday, … [+657 chars]"
+    }
+    ]
+    }
+    
